@@ -1,1 +1,3 @@
-*/certs
+/lab04/*.pem
+/lab04/*.csr
+/lab04/*.json
