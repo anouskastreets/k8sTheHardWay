@@ -2,3 +2,4 @@
 /certs/*.csr
 /certs/*.json
 /certs/*.*config
+/certs/*.yaml
